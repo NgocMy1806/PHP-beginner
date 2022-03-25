@@ -1,5 +1,5 @@
 <?php
-// Your code here!
+// e ko biết tại sao cái file này trên git nó đen sì, ko có màu mè như file "bubble sort.php"
 class algo {
 function swap (&$m,&$n){
     $z=$m;
