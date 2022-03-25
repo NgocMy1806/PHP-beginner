@@ -23,4 +23,4 @@ $mymy1 = new mymy();
 $mymy1->BruteforceSearch($a, 4);
 ?>
 
- ?>
+ 
